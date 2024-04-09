@@ -22,6 +22,43 @@ The task involves creating plots using the Plotly library in Python, which inclu
 ![newplot (2)](https://github.com/srkirot/mall_customer_segmentation/assets/166246544/07a797b8-d2d0-4530-8dc0-e57593009d53)
 
 
+## Multi-factor Percentage Analysis Summary
+
+Based on the provided data, it's evident that there are distinct segments of visitors at the mall, characterized by their age, income, and spending habits. Here's a comprehensive conclusion:
+
+The analysis reveals significant differences in the behavior of young and adult customers at the mall.
+
+#### Young Customers:
+
+- High Income, High Spending (9%): A small percentage of young customers exhibit high income and high spending behavior. These individuals are likely to be affluent young professionals or dependents with considerable disposable income.
+- Low Income, Low Spending (22%): A relatively large proportion of young customers have low income and low spending. These individuals may be students or young adults with limited financial resources, who prioritize essential purchases.
+- Low Income, High Spending (18%): A notable percentage of young customers with low income display high spending behavior. This group may engage in discretionary spending despite limited financial means, possibly through the use of credit or by reallocating funds from other areas.
+- High Income, Low Spending (75%): The majority of young customers with high income exhibit low spending patterns. This segment may prioritize savings or investments over immediate consumption, or they may be conservative in their spending habits despite their financial capacity.
+
+  
+#### Adult Customers:
+
+- High Income, High Spending (14%): A small percentage of adult customers have both high income and high spending tendencies, similar to the corresponding segment of young customers. These individuals likely prioritize luxury purchases or premium experiences.
+- Low Income, Low Spending (7%): A minority of adult customers exhibit low income and low spending behavior. This segment may include individuals on fixed incomes or those who are budget-conscious in their shopping habits.
+- Low Income, High Spending (3%): A small percentage of adult customers with low income demonstrate high spending behavior. These individuals may engage in discretionary spending despite financial constraints, similar to the corresponding segment of young customers.
+- High Income, Low Spending (54%): The majority of adult customers with high income display low spending behavior, mirroring the predominant pattern observed among young customers with high income.
+
+  
+#### Average Income and Spending:
+
+- Young Customers (44%): Nearly half of the young customer segment exhibits average income and spending patterns. These individuals likely adhere to a balanced approach to consumption, neither overspending nor underspending relative to their income.
+- Adult Customers (41%): A similar proportion of adult customers also demonstrates average income and spending behavior, suggesting a comparable level of financial prudence or discretionary spending.
+
+
+ 
+In summary, the analysis highlights the diverse demographics and spending behaviors among mall visitors. While certain segments exhibit high income and spending, others show varying degrees of frugality or financial constraints. Understanding these distinct segments can inform targeted marketing strategies and personalized experiences to meet the specific needs and preferences of different customer groups. It's worth noting that among both young and adult consumers, women are the predominant shoppers.
+
+
+
+
+
+
+
 
 
 
