@@ -23,13 +23,13 @@ Explore gender, age, and annual income distributions in our mall customer datase
 
 - This plot illustrates the relationship between customers' age and their spending score. Each point on the plot represents a customer, with the horizontal position (x-axis) indicating their age and the vertical position (y-axis) indicating their spending score. The dispersion of points on the plot reveals how spending scores are distributed across different age groups, providing insights into how spending behavior varies with customers' age.
 
-<img src="https://github.com/srkirot/mall_customer_segmentation/assets/166246544/0ad03f20-efba-430b-89cc-c429bffcee29" width="700"/>
+<img src="https://github.com/srkirot/mall_customer_segmentation/assets/166246544/56644d73-f6d4-49dc-a8ff-844598eeb02e" width="700"/>
 
 ### Scatter plot of Age vs. Annual Income:
 
 - This plot represents the relationship between customers' age and their annual income, segmented by gender. Each point on the plot represents a customer, with the horizontal position (x-axis) indicating their age and the vertical position (y-axis) indicating their annual income. The dispersion of points on the plot shows how annual incomes are distributed across different age and gender groups, providing information about the relationship between age, gender, and customers' income levels.
 
-<img src="https://github.com/srkirot/mall_customer_segmentation/assets/166246544/07a797b8-d2d0-4530-8dc0-e57593009d53" width="700"/>
+<img src="https://github.com/srkirot/mall_customer_segmentation/assets/166246544/eb730e62-cd12-4757-a4d8-418e9b40f321" width="700"/>
 
 
 ## Multi-factor Percentage Analysis Summary
